@@ -1,2 +1,1 @@
-# talkowski
-Ancillary Resources
+## Talkowski Laboratory
